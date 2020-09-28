@@ -8,6 +8,9 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
+
+---
+
 ### About Me
 I'm passionate about internet communities, digital products and great pizza. I consider myself a Product Engineer, where I enjoy working on anything interesting on or off the text editor. 
 - 🔭 Currently working on assorted projects!
