@@ -14,7 +14,7 @@ I'm passionate about internet communities, digital products and great pizza. I c
 - 🌱 Learning Swift and 3D Modeling
 - ⚡ Fun fact: I have ran over 3500+ miles
 
-### What My Internet Forum Signature Would Look Like In `${currentYear}
+### What My Internet Forum Signature Would Look Like In `${currentYear}`
 <img src="https://raw.githubusercontent.com/ndneighbor/ndneighbor/master/assets/23425.gif" alt="Free userbars" border="0"></a>
 <img src="https://raw.githubusercontent.com/ndneighbor/ndneighbor/master/assets/27224.png" alt="Free userbars" border="0"></a>
 <img src="https://raw.githubusercontent.com/ndneighbor/ndneighbor/master/assets/41706.gif" alt="Free userbars" border="0"></a>
