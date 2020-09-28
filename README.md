@@ -1,5 +1,6 @@
 # Hello Hello 👋≧◉ᴥ◉≦
 [![Mail Badge](https://img.shields.io/badge/-asara019@fiu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asara019@fiu.edu)](mailto:asara019@fiu.edu)
+![living](https://img.shields.io/badge/living-USA-3c9)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
