@@ -11,10 +11,10 @@
 - ⚡ Fun fact: I have ran over 3500+ miles
 
 ### Favorite Languages and Tools
-<a href="https://www.userbars.be"><img src="http://img849.imageshack.us/img849/606/43407.jpg" alt="Free userbars" border="0"></a>
-<a href="https://www.userbars.be"><img src="http://img385.imageshack.us/img385/6660/27224pt9.png" alt="Free userbars" border="0"></a>
-<a href="https://www.userbars.be"><img src="http://imagizer.imageshack.com/img924/7461/YKwE80.png" alt="Free userbars" border="0"></a>
-<a href="https://www.userbars.be"><img src="http://img507.imageshack.us/img507/5295/50840.png" alt="Free userbars" border="0"></a>
+<img src="http://img849.imageshack.us/img849/606/43407.jpg" alt="Free userbars" border="0"></a>
+<img src="http://img385.imageshack.us/img385/6660/27224pt9.png" alt="Free userbars" border="0"></a>
+<img src="http://imagizer.imageshack.com/img924/7461/YKwE80.png" alt="Free userbars" border="0"></a>
+<img src="http://img507.imageshack.us/img507/5295/50840.png" alt="Free userbars" border="0"></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
