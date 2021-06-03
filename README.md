@@ -12,7 +12,7 @@
 ---
 
 ### About Me
-I'm passionate about internet communities, digital products and great pizza. I consider myself a Product Engineer, where I enjoy working on anything interesting on or off the text editor. 
+I'm passionate about the greater internet, digital products and great pizza. I consider myself a Product Engineer, where I enjoy working on anything interesting on or off the text editor. 
 - 🔭 Currently working on assorted projects!
 - 🌱 (Re)Learning JS and 3D Modeling
 - ⚡ Fun fact: I have ran over 3500+ miles
