@@ -1,7 +1,7 @@
 # Hey I'm Angelo! 👋≧◉ᴥ◉≦
 [![Mail Badge](https://img.shields.io/badge/-asara019@fiu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asara019@fiu.edu)](mailto:asara019@fiu.edu)
 ![living](https://img.shields.io/badge/living-USA-3c9)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ndneighbor)](https://twitter.com/ndneighbor)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ngeloxyz)](https://twitter.com/ngeloxyz)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-saraceno/)](https://www.linkedin.com/in/angelo-saraceno/)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@ndneighbor)
 [![GitHub followers](https://img.shields.io/github/followers/ndneighbor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ndneighbor?tab=followers)
